@@ -1,0 +1,6 @@
+[build]
+  # Carpeta estática que publicas
+  publish   = "public"
+
+  # Carpeta donde viven tus Functions
+  functions = "netlify/functions"
